@@ -335,11 +335,11 @@ ul {
   padding:0; }
 
 
-/* Typography 
+/* Typography
    ========================================================================== */
 
 a {
- 	 text-decoration: none;  
+ 	 text-decoration: none;
 }
 
 html {
@@ -353,7 +353,7 @@ html {
 
 h1, h2, h3, h4, h6, .btn, .btn-large, .btn-flat, .menu_bar_navigation, .cbp-spmenu a {
 	font-family: 'Lato', sans-serif;
-} 
+}
 
 @media (max-width: 479px) {html { font-size: 12px; }}
 @media (min-width: 480px) and (max-width: 767px) {html { font-size: 12px; }}
@@ -366,7 +366,7 @@ body {
 	text-rendering: geometricPrecision !important;
 }
 
-p { 
+p {
 	opacity: 0.64;
  	font-weight: 300;
 	font-size:0.92rem;
@@ -386,10 +386,10 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 h1 {
  	opacity: 0.64;
  	font-weight: 300;
- 	letter-spacing: -0.2rem;	
+ 	letter-spacing: -0.2rem;
  	font-size: 4rem;
  	line-height: 4.28rem;
- 	margin: 1.72rem 0px 1.72rem 0px; 
+ 	margin: 1.72rem 0px 1.72rem 0px;
 }
 
 h2 {
@@ -398,36 +398,36 @@ h2 {
 	letter-spacing: 0.01rem;
 	font-size: 3.21rem;
 	line-height: 3.44rem;
-	margin: 1.72rem 0px 1.72rem 0px; 
+	margin: 1.72rem 0px 1.72rem 0px;
 }
 
 h3 {
 	opacity: 1;
-	font-weight: 300;
+	font-weight: 400;
 	letter-spacing: 0.01rem;
 	font-size: 2.42rem;
 	line-height: 2.86rem;
-	margin: 1.72rem 0px 1.14rem 0px; 
+	margin: 1.72rem 0px 1.14rem 0px;
 }
-  
+
 h4 {
 	opacity: 0.64;
 	font-weight: 300;
 	font-size: 1.42rem;
 	letter-spacing: 0.01rem;
 	line-height: 2rem;
-	margin: 1.72rem 0px 1.4rem 0px; 
+	margin: 1.72rem 0px 1.4rem 0px;
 }
-  
+
 h5 {
 	opacity: 0.6;
 	font-weight: 400;
 	letter-spacing: 0.02rem;
 	font-size: 1.14rem;
 	line-height: 2rem;
-	margin: 1.72rem 0px 1.4rem 0px; 
+	margin: 1.72rem 0px 1.4rem 0px;
 }
-  
+
 h6 {
 	opacity: 1;
 	font-weight: 900;
@@ -435,26 +435,26 @@ h6 {
 	letter-spacing: 0.1rem;
 	font-size: 0.92rem;
 	line-height: 1rem;
-	margin: 0px 0px 0rem 0px; 
-}    
-  
+	margin: 0px 0px 0rem 0px;
+}
+
 em {
-	font-style: italic; 
+	font-style: italic;
 }
 
 strong {
-	font-weight: 500; 
-}    
+	font-weight: 500;
+}
 
 small {
 	letter-spacing: 0.02rem;
 	font-weight: 500;
 	font-size: 0.857rem;
-	line-height: 1.72rem;  
+	line-height: 1.72rem;
 }
 
 nav a {
 	font-size: 0.928rem;
 	line-height: 1.72rem;
-	letter-spacing: 0.03rem;  	
-}  
+	letter-spacing: 0.03rem;
+}
