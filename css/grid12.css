@@ -57,6 +57,9 @@
     margin-left: 0 !important;
     padding-left: 15px !important;
   }
+  #feature2 {
+    display: block !important;
+  }
 
 }
 @media (min-width: 768px) and (max-width: 991px) {
